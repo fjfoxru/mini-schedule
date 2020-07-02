@@ -1,0 +1,13 @@
+body {margin: 0;}
+
+.schedule {
+    display: flex;
+}
+
+.schedule__day {
+    padding: 10px 20px;
+}
+
+.schedule__week {
+    padding: 10px 0px;
+}
